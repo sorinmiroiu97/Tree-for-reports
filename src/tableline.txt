@@ -1,0 +1,16 @@
+cycleID,cycleDate,cycleTooltip,reportGroupID,ReportGroupName,ReportGroupTooltip,ReportID,ReportName,ReportTooltip
+0,20.01.2001,Monday,,,,,,
+0,,,1,DailyStuff,Stuff,,,
+0,,,1,,,1,Daily,Daily_Statement
+0,,,2,MonthlyStuff,Stuff,,,
+0,,,2,,,2,Monthly,Monthly_Statement
+0,,,3,YearlyStuff,Stuff,,,
+0,,,3,,,3,Yearly,Yearly_Statement
+1,21.01.2001,Tuesday,,,,,,
+1,,,4,DailyStuff,Stuff,,,
+1,,,4,,,5,Daily,Daily_Statement_XML
+1,,,5,MonthlyStuff,Stuff,,,
+1,,,5,,,6,Monthly,Monthly_Statement
+1,,,5,,,7,Monthly,Monthly_Balance
+1,,,6,YearlyStuff,Stuff,,,
+1,,,6,,,8,Yearly,Yearly_Statement_XML
